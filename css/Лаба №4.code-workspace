@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Project Sudoku"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Лаба №4"
+	}
+}
